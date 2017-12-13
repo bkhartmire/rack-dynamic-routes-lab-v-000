@@ -1,2 +1,2 @@
 class Application
-  @@item = []
+  @@items = []
